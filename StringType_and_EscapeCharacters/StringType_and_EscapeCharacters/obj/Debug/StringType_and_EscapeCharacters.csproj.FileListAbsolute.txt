@@ -1,0 +1,7 @@
+C:\Users\yazan\source\repos\StringType_and_EscapeCharacters\StringType_and_EscapeCharacters\obj\Debug\StringType_and_EscapeCharacters.csprojAssemblyReference.cache
+C:\Users\yazan\source\repos\StringType_and_EscapeCharacters\StringType_and_EscapeCharacters\obj\Debug\StringType_and_EscapeCharacters.csproj.CoreCompileInputs.cache
+C:\Users\yazan\source\repos\StringType_and_EscapeCharacters\StringType_and_EscapeCharacters\bin\Debug\StringType_and_EscapeCharacters.exe.config
+C:\Users\yazan\source\repos\StringType_and_EscapeCharacters\StringType_and_EscapeCharacters\bin\Debug\StringType_and_EscapeCharacters.exe
+C:\Users\yazan\source\repos\StringType_and_EscapeCharacters\StringType_and_EscapeCharacters\bin\Debug\StringType_and_EscapeCharacters.pdb
+C:\Users\yazan\source\repos\StringType_and_EscapeCharacters\StringType_and_EscapeCharacters\obj\Debug\StringType_and_EscapeCharacters.exe
+C:\Users\yazan\source\repos\StringType_and_EscapeCharacters\StringType_and_EscapeCharacters\obj\Debug\StringType_and_EscapeCharacters.pdb
